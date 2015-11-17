@@ -2,13 +2,16 @@
 
 **NOTE BEFORE START:**
 1. In the folder, there is a ‘KautzPlayer’ folder. This is the default test class for our course. It just looks one head ahead - so it’s the dummy test class. 
+
 LittleGreenMan is my group (of 2) name. So I would recommend using this AI/program. 
 
 2. The only thing that my group coded is everything in LittleGreenMan folder. The rest (the boards, and GM (e.g. java panel) ) were given since it was an AI course, rather than a game-development course.
 
 **Just for a quick test-run:**
 (If you want to, you can make sure LittleGreenMan compiles.)
+
 1. Go to terminal (or cmd) and navigate to OthelloProject Folder.
+
 2. ENTER: ./ tournament gui LittleGreenMan LittleGreenMan 10 500 0
 
 **How to run:**
@@ -20,6 +23,7 @@ LittleGreenMan is my group (of 2) name. So I would recommend using this AI/progr
 
 **BLACK_PIECE and/or WHITE_PIECE: can be either:**
 (a) -human	; which means you are going to input the moves (Also, MODE will have to be ‘gui’ for this to work.
+
 (b) <Directory of AI> ; in this case, you can use LittleGreenMan.
 
 **DEPTH:** means how many steps ahead do you want to look. 
