@@ -22,6 +22,7 @@ LittleGreenMan is my group (of 2) name. So I would recommend using this AI/progr
 (b) gui 	; which will use a java panel to show (this will have to be used if you are planning with the ai/program)
 
 **BLACK_PIECE and/or WHITE_PIECE: can be either:**
+
 (a) -human	; which means you are going to input the moves (Also, MODE will have to be ‘gui’ for this to work.
 
 (b) <Directory of AI> ; in this case, you can use LittleGreenMan.
