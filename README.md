@@ -2,7 +2,10 @@
 
 **Overview**
 
-This is an AI program that utilizes mini-max algorithm to play the game, Othello. It is written in Java.
+This is an AI program that utilizes mini-max algorithm to play the game, Othello. It is written in Java. This was a course assignment and the code I was responsible to write are located in the 'LittleGreenMan' (this was my team name) folder.
+
+
+
 
 **NOTE BEFORE START:**
 1. In the folder, there is a ‘KautzPlayer’ folder. This is the default test class for our course. It just looks one head ahead - so it’s the dummy test class. 
